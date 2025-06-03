@@ -358,6 +358,7 @@ input, select, textarea {
 
 .tech-tags {
     margin: 0.8rem 0;
+	gap: 8px;
 }
 
 .tag {
